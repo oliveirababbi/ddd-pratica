@@ -1,0 +1,15 @@
+C:\Users\Babbi\Desktop\BNE\ddd-pratica\ddd-pratica\bin\Debug\ddd-pratica.dll.config
+C:\Users\Babbi\Desktop\BNE\ddd-pratica\ddd-pratica\bin\Debug\ddd-pratica.dll
+C:\Users\Babbi\Desktop\BNE\ddd-pratica\ddd-pratica\bin\Debug\ddd-pratica.pdb
+C:\Users\Babbi\Desktop\BNE\ddd-pratica\ddd-pratica\bin\Debug\EntityFramework.dll
+C:\Users\Babbi\Desktop\BNE\ddd-pratica\ddd-pratica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Babbi\Desktop\BNE\ddd-pratica\ddd-pratica\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Babbi\Desktop\BNE\ddd-pratica\ddd-pratica\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Babbi\Desktop\BNE\ddd-pratica\ddd-pratica\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Babbi\Desktop\BNE\ddd-pratica\ddd-pratica\bin\Debug\EntityFramework.xml
+C:\Users\Babbi\Desktop\BNE\ddd-pratica\ddd-pratica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Babbi\Desktop\BNE\ddd-pratica\ddd-pratica\obj\Debug\DDD-Pratica.Domain.csproj.AssemblyReference.cache
+C:\Users\Babbi\Desktop\BNE\ddd-pratica\ddd-pratica\obj\Debug\DDD-Pratica.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Babbi\Desktop\BNE\ddd-pratica\ddd-pratica\obj\Debug\DDD-Pratica.Domain.csproj.CopyComplete
+C:\Users\Babbi\Desktop\BNE\ddd-pratica\ddd-pratica\obj\Debug\ddd-pratica.dll
+C:\Users\Babbi\Desktop\BNE\ddd-pratica\ddd-pratica\obj\Debug\ddd-pratica.pdb
